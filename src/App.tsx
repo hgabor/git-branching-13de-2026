@@ -7,7 +7,9 @@ function App() {
       <h1>Main content of the article</h1>
     </header>
     <main>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus atque excepturi non iure rem sit quisquam, illum molestias consectetur vitae assumenda aliquam. Natus labore iusto vitae sit illo qui harum.</p>
+      <article>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus atque excepturi non iure rem sit quisquam, illum molestias consectetur vitae assumenda aliquam. Natus labore iusto vitae sit illo qui harum.</p>
+      </article>
     </main>
   </>
 }
